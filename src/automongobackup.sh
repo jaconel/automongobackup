@@ -68,7 +68,7 @@ MAXATTSIZE="4000"
 #=============================================================
 
 # Which day do you want weekly backups? (1 to 7 where 1 is Monday)
-DOWEEKLY=6
+DOWEEKLY=7
 
 # Choose Compression type. (gzip or bzip2)
 COMP="gzip"
